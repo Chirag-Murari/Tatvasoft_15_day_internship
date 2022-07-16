@@ -1,0 +1,44 @@
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\bin\Debug\net5.0\ref\BookStore.Repository.dll
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.dll
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.pdb
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CopyComplete
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
+D:\Projects\6th Sem Training\Demo26\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\bin\Debug\net5.0\ref\BookStore.Repository.dll
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.dll
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.pdb
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
+D:\Tatvasoft\files\Trainee-2022\Vijay\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.dll
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.pdb
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CopyComplete
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\obj\Debug\net5.0\refint\BookStore.Repository.dll
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+C:\Users\Chirag\Desktop\Tatvasoft\BookStore\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
